@@ -4,7 +4,7 @@
 
 ## **Задание 1**
 
-- ![scrinshot](https://github.com/
+- ![scrinshot](https://github.com/Evgenii-379/13-01.md/blob/main/Снимок%20экрана%202024-06-15%20233548.png)
 
 [vsftpd 2.3.4 - эксплойт](https://www.exploit-db.com/ ) - выполнение бэкдор-команды
 
